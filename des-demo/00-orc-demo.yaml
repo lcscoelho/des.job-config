@@ -1,0 +1,3 @@
+active: true
+jobs: 
+  - /des-demo/yahoo-finance/job-0000-copy-kncr11-html.yaml
